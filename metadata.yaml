@@ -1,0 +1,34 @@
+_repo: Ganaras-el-pan_73105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mata, Pedro
+    aliases:
+    - Mata Domínguez, Pedro
+    - Domínguez, Pedro Mata
+    - Dominguez, Pedro Mata
+    birthdate: 1875
+    deathdate: 1946
+    gutenberg_agent_id: '40843'
+    url: http://www.gutenberg.org/2009/agents/40843
+description: ''
+gutenberg_issued: '2024-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73105'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015062987048&view=1up&seq=9
+pgterms:marc905: 20200705050719mata
+pgterms:marc906: '1919'
+pgterms:marc907: ES
+production_note: Carlos Colon, Ramon Pajares Box, the University of Michigan and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced
+  from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aMadrid :$bEditorial Pueyo, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ganarás el pan...
+url: http://www.gutenberg.org/ebooks/73105
